@@ -1,0 +1,6 @@
+@Q5_E_CommerceAPI_HostAddress = http://localhost:5126
+
+GET {{Q5_E_CommerceAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

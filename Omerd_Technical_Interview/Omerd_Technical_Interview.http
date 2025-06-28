@@ -1,0 +1,6 @@
+@Omerd_Technical_Interview_HostAddress = http://localhost:5152
+
+GET {{Omerd_Technical_Interview_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
