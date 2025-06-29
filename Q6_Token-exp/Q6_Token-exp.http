@@ -1,0 +1,6 @@
+@Q6_Token_exp_HostAddress = http://localhost:5196
+
+GET {{Q6_Token_exp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
